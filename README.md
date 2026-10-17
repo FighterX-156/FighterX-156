@@ -124,7 +124,7 @@ const seam = {
 ## `06` / CURRENT MISSION
 
 <div align="center">
-  <img src="./assets/mission.svg" alt="Current mission: Full-Stack Development 80%, Data Structures & Algorithms 65%, Problem Solving 50%" width="100%" />
+  <img src="./mission.svg" alt="Current mission: Full-Stack Development 85%, Data Structures & Algorithms 72%, Problem Solving 65%" width="100%" />
 </div>
 
 ## `07` / CONNECT WITH ME
@@ -141,6 +141,10 @@ const seam = {
 <br/><br/>
 
 <img src="https://hits.sh/github.com/FighterX-156.svg?style=flat-square&label=PROFILE%20VIEWS&color=39FF88&labelColor=050807" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="./Sign (2).png" alt="Signature">
 
 <br/><br/>
 
