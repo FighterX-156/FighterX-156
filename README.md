@@ -36,8 +36,8 @@ const seam = {
     ],
     mindset: "Build useful things. Learn every day.",
     goal: "Turn ideas into real-world solutions."
-};
-```
+};```
+
 
 - 🎓 Studying Computer Science and Engineering at IIUC.
 - 💻 Developing my skills in modern web technologies.
