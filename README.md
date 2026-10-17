@@ -107,14 +107,20 @@ Explore my repositories for web development experiments, academic projects and p
 
 ## `05` / CURRENT MISSION
 
-```text
-[████████░░] Full-Stack Development
-[██████░░░░] Data Structures & Algorithms
-[█████░░░░░] Problem Solving
-[████░░░░░░] Software Engineering
-```
+<div align="center">
 
-My focus is on strengthening fundamentals, writing maintainable code, and creating projects that solve real problems.
+<img src="https://geektutu.com/post/svg-generator/svg-progress-bar.svg?title=Full-Stack%20Development&percent=80&color=39FF88&bgcolor=050807" width="100%" alt="Full-Stack Progress"/>
+
+</div>
+
+| Skill / Focus Area | Level | Target Focus |
+| :--- | :---: | :--- |
+| ⚡ **Full-Stack Development** | `80%` | MERN / Next.js Stack Mastery |
+| 🧩 **Data Structures & Algorithms** | `65%` | Problem Solving & LeetCode |
+| 🛠️ **Software Engineering** | `50%` | Clean Code & Architecture Patterns |
+| 🚀 **System Design Fundamentals** | `40%` | Scalable Web Systems |
+
+> 💡 **Core Mindset:** Strengthening fundamentals, writing maintainable code, and building real-world solutions.
 
 ---
 
