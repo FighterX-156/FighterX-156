@@ -25,17 +25,17 @@
 
 ```javascript
 const seam = {
-  name: "Md. Nafizur Rahman Seam",
-  alias: "Siam",
-  role: "CSE Student & Aspiring Full-Stack Developer",
-  university: "International Islamic University Chittagong",
-  focus: [
-    "Full-Stack Web Development",
-    "Data Structures & Algorithms",
-    "Software Engineering",
-  ],
-  mindset: "Build useful things. Learn every day.",
-  goal: "Turn ideas into real-world solutions.",
+    name: "Md. Nafizur Rahman Seam",
+    alias: "Siam",
+    role: "CSE Student & Aspiring Full-Stack Developer",
+    university: "International Islamic University Chittagong",
+    focus: [
+        "Full-Stack Web Development",
+        "Data Structures & Algorithms",
+        "Software Engineering"
+    ],
+    mindset: "Build useful things. Learn every day.",
+    goal: "Turn ideas into real-world solutions."
 };
 ```
 
@@ -104,12 +104,55 @@ Explore my repositories for web development experiments, academic projects and p
 ➡️ [Explore all my repositories](https://github.com/FighterX-156?tab=repositories)
 
 ---
+## 05 / CURRENT MISSION
 
-## `05` / CURRENT MISSION
+<div align="center">
 
-<div align="center"><!-- Custom CSS for the animated volume slider --><style> .slider-container { margin: 15px 0; display: flex; align-items: center; justify-content: space-between; font-family: monospace; font-size: 13px; color: #FFFFFF; } .slider-track { flex-grow: 1; height: 6px; background-color: #1A1A1A; border-radius: 10px; margin: 0 15px; position: relative; display: flex; align-items: center; } .slider-fill { height: 100%; border-radius: 10px; background: linear-gradient(90deg, #0284C7, #39FF88); animation: slideGrow 2s cubic-bezier(0.1, 0.8, 0.2, 1) forwards; } .slider-knob { position: absolute; width: 16px; height: 16px; background-color: #39FF88; border-radius: 50%; box-shadow: 0 0 10px rgba(57, 255, 136, 0.8), 0 0 4px rgba(57, 255, 136, 1); animation: knobMove 2s cubic-bezier(0.1, 0.8, 0.2, 1) forwards; display: flex; justify-content: center; align-items: center; } .slider-knob::after { content: ''; width: 6px; height: 6px; background-color: #050807; border-radius: 50%; } /* Animations */ @keyframes slideGrow { 0% { width: 0%; } 100% { width: var(--target-width); } } @keyframes knobMove { 0% { left: 0%; transform: translateX(-50%); } 100% { left: var(--target-width); transform: translateX(-50%); } } </style><!-- Live Status Header --><svg width="100%" height="40" viewBox="0 0 700 40" fill="none" xmlns="http://www.w3.org/2000/svg"> <text x="700" y="20" text-anchor="end" fill="#39FF88" font-family="monospace" font-size="11" opacity="0.8">((•)) LIVE STATUS</text> <line x1="0" y1="30" x2="700" y2="30" stroke="#064E3B" stroke-width="2"/> </svg>
-<!-- Slider 1: Full-Stack (80%) --><div class="slider-container"> <div style="width: 220px; text-align: left; font-weight: bold;">FULL-STACK DEVELOPMENT</div> <div class="slider-track"> <div class="slider-fill" style="--target-width: 80%;"></div> <div class="slider-knob" style="--target-width: 80%;"></div> </div> <div style="width: 45px; text-align: right; color: #39FF88;">[80%]</div> </div><!-- Slider 2: DSA (65%) --><div class="slider-container"> <div style="width: 220px; text-align: left; font-weight: bold;">DATA STRUCTURES & ALGORITHMS</div> <div class="slider-track"> <div class="slider-fill" style="--target-width: 65%;"></div> <div class="slider-knob" style="--target-width: 65%;"></div> </div> <div style="width: 45px; text-align: right; color: #39FF88;">[65%]</div> </div><!-- Slider 3: Problem Solving (50%) --><div class="slider-container"> <div style="width: 220px; text-align: left; font-weight: bold;">PROBLEM SOLVING</div> <div class="slider-track"> <div class="slider-fill" style="--target-width: 50%;"></div> <div class="slider-knob" style="--target-width: 50%;"></div> </div> <div style="width: 45px; text-align: right; color: #39FF88;">[50%]</div> </div>
-🚀 Core Focus: Strengthening fundamentals, writing maintainable code, and creating projects that solve real problems.
+<p align="right"><code><font color="#39FF88">((•)) LIVE STATUS</font></code></p>
+<hr/>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="30%"><b>FULL-STACK DEVELOPMENT</b></td>
+    <td width="60%">
+      <svg width="100%" height="16" viewBox="0 0 300 16" xmlns="http://www.w3.org/2000/svg">
+        <rect width="100%" height="100%" rx="8" fill="#1A1A1A"/>
+        <rect width="80%" height="100%" rx="8" fill="url(#grad)"/>
+        <defs>
+          <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#0284C7"/>
+            <stop offset="100%" stop-color="#39FF88"/>
+          </linearGradient>
+        </defs>
+      </svg>
+    </td>
+    <td width="10%" align="right"><code><font color="#39FF88">[80%]</font></code></td>
+  </tr>
+  <tr>
+    <td><b>DATA STRUCTURES & ALGORITHMS</b></td>
+    <td>
+      <svg width="100%" height="16" viewBox="0 0 300 16" xmlns="http://www.w3.org/2000/svg">
+        <rect width="100%" height="100%" rx="8" fill="#1A1A1A"/>
+        <rect width="65%" height="100%" rx="8" fill="url(#grad)"/>
+      </svg>
+    </td>
+    <td align="right"><code><font color="#39FF88">[65%]</font></code></td>
+  </tr>
+  <tr>
+    <td><b>PROBLEM SOLVING</b></td>
+    <td>
+      <svg width="100%" height="16" viewBox="0 0 300 16" xmlns="http://www.w3.org/2000/svg">
+        <rect width="100%" height="100%" rx="8" fill="#1A1A1A"/>
+        <rect width="50%" height="100%" rx="8" fill="url(#grad)"/>
+      </svg>
+    </td>
+    <td align="right"><code><font color="#39FF88">[50%]</font></code></td>
+  </tr>
+</table>
+
+<br/>
+
+> 🚀 **Core Focus:** Strengthening fundamentals, writing maintainable code, and creating projects that solve real problems.
 
 </div>
 
