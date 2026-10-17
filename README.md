@@ -104,8 +104,112 @@ Explore my repositories for web development experiments, academic projects and p
 ➡️ [Explore all my repositories](https://github.com/FighterX-156?tab=repositories)
 
 ---
-
 ## `05` / CURRENT MISSION
+
+<div align="center">
+
+<!-- Custom CSS for the animated volume slider -->
+<style>
+  .slider-container {
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: monospace;
+    font-size: 13px;
+    color: #FFFFFF;
+  }
+  .slider-track {
+    flex-grow: 1;
+    height: 6px;
+    background-color: #1A1A1A;
+    border-radius: 10px;
+    margin: 0 15px;
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  .slider-fill {
+    height: 100%;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #0284C7, #39FF88);
+    animation: slideGrow 2s cubic-bezier(0.1, 0.8, 0.2, 1) forwards;
+  }
+  .slider-knob {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-color: #39FF88;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(57, 255, 136, 0.8), 0 0 4px rgba(57, 255, 136, 1);
+    animation: knobMove 2s cubic-bezier(0.1, 0.8, 0.2, 1) forwards;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .slider-knob::after {
+    content: '';
+    width: 6px;
+    height: 6px;
+    background-color: #050807;
+    border-radius: 50%;
+  }
+  
+  /* Animations */
+  @keyframes slideGrow {
+    0% { width: 0%; }
+    100% { width: var(--target-width); }
+  }
+  @keyframes knobMove {
+    0% { left: 0%; transform: translateX(-50%); }
+    100% { left: var(--target-width); transform: translateX(-50%); }
+  }
+</style>
+
+<!-- Live Status Header -->
+<svg width="100%" height="40" viewBox="0 0 700 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="700" y="20" text-anchor="end" fill="#39FF88" font-family="monospace" font-size="11" opacity="0.8">((•)) LIVE STATUS</text>
+  <line x1="0" y1="30" x2="700" y2="30" stroke="#064E3B" stroke-width="2"/>
+</svg>
+
+<br/>
+
+<!-- Slider 1: Full-Stack (80%) -->
+<div class="slider-container">
+  <div style="width: 220px; text-align: left; font-weight: bold;">FULL-STACK DEVELOPMENT</div>
+  <div class="slider-track">
+    <div class="slider-fill" style="--target-width: 80%;"></div>
+    <div class="slider-knob" style="--target-width: 80%;"></div>
+  </div>
+  <div style="width: 45px; text-align: right; color: #39FF88;">[80%]</div>
+</div>
+
+<!-- Slider 2: DSA (65%) -->
+<div class="slider-container">
+  <div style="width: 220px; text-align: left; font-weight: bold;">DATA STRUCTURES & ALGORITHMS</div>
+  <div class="slider-track">
+    <div class="slider-fill" style="--target-width: 65%;"></div>
+    <div class="slider-knob" style="--target-width: 65%;"></div>
+  </div>
+  <div style="width: 45px; text-align: right; color: #39FF88;">[65%]</div>
+</div>
+
+<!-- Slider 3: Problem Solving (50%) -->
+<div class="slider-container">
+  <div style="width: 220px; text-align: left; font-weight: bold;">PROBLEM SOLVING</div>
+  <div class="slider-track">
+    <div class="slider-fill" style="--target-width: 50%;"></div>
+    <div class="slider-knob" style="--target-width: 50%;"></div>
+  </div>
+  <div style="width: 45px; text-align: right; color: #39FF88;">[50%]</div>
+</div>
+
+<br/>
+
+> 🚀 **Core Focus:** Strengthening fundamentals, writing maintainable code, and creating projects that solve real problems.
+
+</div>
+---
 
 <div align="center">
 
