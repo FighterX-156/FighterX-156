@@ -104,51 +104,25 @@ Explore my repositories for web development experiments, academic projects and p
 ➡️ [Explore all my repositories](https://github.com/FighterX-156?tab=repositories)
 
 ---
-## 05 / CURRENT MISSION
-
 <div align="center">
 
 <p align="right"><code><font color="#39FF88">((•)) LIVE STATUS</font></code></p>
 <hr/>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="30%"><b>FULL-STACK DEVELOPMENT</b></td>
-    <td width="60%">
-      <svg width="100%" height="16" viewBox="0 0 300 16" xmlns="http://www.w3.org/2000/svg">
-        <rect width="100%" height="100%" rx="8" fill="#1A1A1A"/>
-        <rect width="80%" height="100%" rx="8" fill="url(#grad)"/>
-        <defs>
-          <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#0284C7"/>
-            <stop offset="100%" stop-color="#39FF88"/>
-          </linearGradient>
-        </defs>
-      </svg>
-    </td>
-    <td width="10%" align="right"><code><font color="#39FF88">[80%]</font></code></td>
-  </tr>
-  <tr>
-    <td><b>DATA STRUCTURES & ALGORITHMS</b></td>
-    <td>
-      <svg width="100%" height="16" viewBox="0 0 300 16" xmlns="http://www.w3.org/2000/svg">
-        <rect width="100%" height="100%" rx="8" fill="#1A1A1A"/>
-        <rect width="65%" height="100%" rx="8" fill="url(#grad)"/>
-      </svg>
-    </td>
-    <td align="right"><code><font color="#39FF88">[65%]</font></code></td>
-  </tr>
-  <tr>
-    <td><b>PROBLEM SOLVING</b></td>
-    <td>
-      <svg width="100%" height="16" viewBox="0 0 300 16" xmlns="http://www.w3.org/2000/svg">
-        <rect width="100%" height="100%" rx="8" fill="#1A1A1A"/>
-        <rect width="50%" height="100%" rx="8" fill="url(#grad)"/>
-      </svg>
-    </td>
-    <td align="right"><code><font color="#39FF88">[50%]</font></code></td>
-  </tr>
-</table>
+<p align="left">
+  <b>FULL-STACK DEVELOPMENT</b><br/>
+  <img src="https://geps.dev/progress/80?dangerColor=0284C7&warningColor=0284C7&successColor=39FF88" width="100%" alt="80%" />
+</p>
+
+<p align="left">
+  <b>DATA STRUCTURES & ALGORITHMS</b><br/>
+  <img src="https://geps.dev/progress/65?dangerColor=0284C7&warningColor=0284C7&successColor=39FF88" width="100%" alt="85%" />
+</p>
+
+<p align="left">
+  <b>PROBLEM SOLVING</b><br/>
+  <img src="https://geps.dev/progress/50?dangerColor=0284C7&warningColor=0284C7&successColor=39FF88" width="100%" alt="75%" />
+</p>
 
 <br/>
 
