@@ -95,10 +95,6 @@ const seam = {
 
 <img width="95%" src="https://streak-stats.demolab.com?user=FighterX-156&theme=dark&hide_border=true&background=050807&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
 
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FighterX-156&bg_color=050807&color=39FF88&line=39FF88&point=FFFFFF&area=true&area_color=39FF88&hide_border=true" alt="Contribution activity graph"/>
-
 </div>
 
 ## `05` / FEATURED PROJECTS
@@ -128,7 +124,7 @@ const seam = {
 ## `06` / CURRENT MISSION
 
 <div align="center">
-  <img src="./mission.svg" alt="Current mission: Full-Stack Development 80%, Data Structures & Algorithms 65%, Problem Solving 50%" width="100%" />
+  <img src="./assets/mission.svg" alt="Current mission: Full-Stack Development 80%, Data Structures & Algorithms 65%, Problem Solving 50%" width="100%" />
 </div>
 
 ## `07` / CONNECT WITH ME
@@ -144,7 +140,7 @@ const seam = {
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=FighterX-156&style=flat-square&color=39FF88&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://hits.sh/github.com/FighterX-156.svg?style=flat-square&label=PROFILE%20VIEWS&color=39FF88&labelColor=050807" alt="Profile views"/>
 
 <br/><br/>
 
