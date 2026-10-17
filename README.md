@@ -1,24 +1,21 @@
-```html
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,50:064E3B,100:39FF88&height=220&section=header&text=FighterX-156&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/FighterX-156">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Turning+Ideas+Into+Code;Learning.+Building.+Improving." alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Turning+Ideas+Into+Code;Learning.+Building.+Improving." alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://github.com/FighterX-156">
-  <img src="https://img.shields.io/badge/GitHub-FighterX--156-39FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=050807"/>
+<img src="https://img.shields.io/badge/GitHub-FighterX--156-39FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=050807"/>
 </a>
 <a href="https://www.linkedin.com/in/md-nafizur-rahman-seam-59228b377/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050807"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050807"/>
 </a>
 
 <br/><br/>
 
-> **"First, solve the problem. Then, write the code."**
+**"First, solve the problem. Then, write the code."**
 
 </div>
 
@@ -54,16 +51,20 @@ const seam = {
 
 <div align="center">
 
-### Languages
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="Programming languages"/>
 
-### Frontend
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" alt="Frontend technologies"/>
 
-### Backend & Database
+**Backend & Database**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and databases"/>
 
-### Tools & Workflow
+**Tools & Workflow**
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer tools"/>
 
 </div>
@@ -90,8 +91,8 @@ const seam = {
 
 <div align="center">
 
-<a href="https://github.com/FighterX-156">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FighterX-156&repo=Portfolio-Website---By-Seam&hide_border=true&bg_color=050807&title_color=39FF88&text_color=FFFFFF&icon_color=39FF88" alt="Portfolio website repository"/>
+<a href="https://github.com/FighterX-156/Portfolio-Website---By-Seam">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FighterX-156&repo=Portfolio-Website---By-Seam&hide_border=true&bg_color=050807&title_color=39FF88&text_color=FFFFFF&icon_color=39FF88" alt="Portfolio website repository"/>
 </a>
 
 </div>
@@ -122,10 +123,10 @@ My focus is on strengthening fundamentals, writing maintainable code, and creati
 <div align="center">
 
 <a href="https://github.com/FighterX-156">
-  <img src="https://img.shields.io/badge/GitHub-050807?style=for-the-badge&logo=github&logoColor=39FF88"/>
+<img src="https://img.shields.io/badge/GitHub-050807?style=for-the-badge&logo=github&logoColor=39FF88"/>
 </a>
 <a href="https://www.linkedin.com/in/md-nafizur-rahman-seam-59228b377/">
-  <img src="https://img.shields.io/badge/LinkedIn-050807?style=for-the-badge&logo=linkedin&logoColor=39FF88"/>
+<img src="https://img.shields.io/badge/LinkedIn-050807?style=for-the-badge&logo=linkedin&logoColor=39FF88"/>
 </a>
 
 <br/><br/>
@@ -134,11 +135,10 @@ My focus is on strengthening fundamentals, writing maintainable code, and creati
 
 <br/><br/>
 
-### `KEEP BUILDING. KEEP EVOLVING.`
+### KEEP BUILDING. KEEP EVOLVING.
 
 <sub>Designed with curiosity, powered by code. © Seam</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF88,50:064E3B,100:050807&height=100&section=footer" width="100%"/>
 
 </div>
-```
