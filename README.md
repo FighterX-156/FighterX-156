@@ -109,18 +109,43 @@ Explore my repositories for web development experiments, academic projects and p
 
 <div align="center">
 
-<img src="https://geektutu.com/post/svg-generator/svg-progress-bar.svg?title=Full-Stack%20Development&percent=80&color=39FF88&bgcolor=050807" width="100%" alt="Full-Stack Progress"/>
+<svg width="100%" height="160" viewBox="0 0 700 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Panel -->
+  <rect width="700" height="160" rx="12" fill="#050807" stroke="#064E3B" stroke-width="2"/>
+  
+  <!-- Live Data Indicator -->
+  <text x="610" y="25" fill="#39FF88" font-family="monospace" font-size="11" opacity="0.8">((•)) LIVE STATUS</text>
+
+  <!-- 1. Full-Stack Development (80%) -->
+  <text x="30" y="45" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="bold">FULL-STACK DEVELOPMENT</text>
+  <text x="590" y="45" fill="#39FF88" font-family="monospace" font-size="12">[80%]</text>
+  <rect x="30" y="55" width="640" height="8" rx="4" fill="#0A1410"/>
+  <rect x="30" y="55" height="8" rx="4" fill="#39FF88">
+    <animate attributeName="width" from="0" to="512" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1"/>
+  </rect>
+
+  <!-- 2. Data Structures & Algorithms (65%) -->
+  <text x="30" y="85" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="bold">DATA STRUCTURES & ALGORITHMS</text>
+  <text x="590" y="85" fill="#39FF88" font-family="monospace" font-size="12">[65%]</text>
+  <rect x="30" y="95" width="640" height="8" rx="4" fill="#0A1410"/>
+  <rect x="30" y="95" height="8" rx="4" fill="#39FF88">
+    <animate attributeName="width" from="0" to="416" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1"/>
+  </rect>
+
+  <!-- 3. Problem Solving (50%) -->
+  <text x="30" y="125" fill="#FFFFFF" font-family="monospace" font-size="12" font-weight="bold">PROBLEM SOLVING</text>
+  <text x="590" y="125" fill="#39FF88" font-family="monospace" font-size="12">[50%]</text>
+  <rect x="30" y="135" width="640" height="8" rx="4" fill="#0A1410"/>
+  <rect x="30" y="135" height="8" rx="4" fill="#39FF88">
+    <animate attributeName="width" from="0" to="320" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.1 0.8 0.2 1"/>
+  </rect>
+</svg>
+
+<br/>
+
+> 🚀 **Core Focus:** Strengthening fundamentals, writing maintainable code, and creating projects that solve real problems.
 
 </div>
-
-| Skill / Focus Area | Level | Target Focus |
-| :--- | :---: | :--- |
-| ⚡ **Full-Stack Development** | `80%` | MERN / Next.js Stack Mastery |
-| 🧩 **Data Structures & Algorithms** | `65%` | Problem Solving & LeetCode |
-| 🛠️ **Software Engineering** | `50%` | Clean Code & Architecture Patterns |
-| 🚀 **System Design Fundamentals** | `40%` | Scalable Web Systems |
-
-> 💡 **Core Mindset:** Strengthening fundamentals, writing maintainable code, and building real-world solutions.
 
 ---
 
