@@ -144,7 +144,7 @@ const seam = {
 
 <br/><br/>
 
-<img src="./Sign (2).png" width="60%" alt="Signature">
+<img src="./Sign (2).png" width="40%" alt="Signature">
 
 <br/><br/>
 
